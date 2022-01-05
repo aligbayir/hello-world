@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Yeni kullanıcı için kayıt formu hoşgeldiniz</h1>
+    <h1>Welcome to fill the register form</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
